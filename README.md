@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KalpeshMayekar
+- 👀 I’m interested in swimming
+- 🌱 I’m currently learning computer engineering
+- 💞️ I’m looking to collaborate on data science
